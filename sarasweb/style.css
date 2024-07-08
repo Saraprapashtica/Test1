@@ -1,0 +1,48 @@
+.header{
+
+color: midnightblue;
+background-color: rgb(228, 222, 222);
+
+}
+body{
+
+background-color: rgb(228, 221, 221)
+}
+.header2{
+text-align: center;
+color: midnightblue;
+}
+.button{
+
+    background-color: midnightblue;
+    border: 3px solid white;
+    width: 500px;
+    height: 150px;
+    color: white;
+}
+.button2{
+    background-color: midnightblue;
+    border: 3px double white;
+    width: 250px;
+    height: 70px;
+    color: white;
+}
+.enesi{
+    color: white;
+    background-color: midnightblue;
+    width: 500px;
+    height: 40px;
+    border: 2px double rgb(60, 0, 255);
+    text-align: end
+}
+
+.levize{
+    background-color: midnightblue;
+   color: white;
+
+}
+
+.djatht{
+    position: absolute;
+    right: 0;
+}
